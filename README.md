@@ -1,15 +1,6 @@
 # Paku-Paku-2
 
-**Número da Lista**: -<br>
-**Conteúdo da Disciplina**: Final<br>
-
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 18/0113585 | Hugo Ricardo Souza Bezerra |
-| 18/0125770 | Lucas Gabriel Bezerra      |
-
-## Sobre 
+<!--## Sobre 
 O Paku-Paku 2 é um jogo inspirado no Pac-Man. O objetivo do jogo é que o Paku consiga comer o maior número de bolhinhas possíveis sem ser capturado pelos fantasmas. Ao comer as bolhinhas especiais(maiores) o Paku consegue poderes, por 15 segundos, e fica forte o suficiente para comer os fantasmas, sabendo disso os fantasmas começam a fugir do Paku.
 
 O Paku-Paku 2 é a evolução do Paku-Paku. Agora existem novos desafios e dificuldades, além de dar ao jogador maior controle sobre as configurações do jogo.
@@ -24,7 +15,7 @@ O Paku-Paku 2 é a evolução do Paku-Paku. Agora existem novos desafios e dific
     - Novos botões
     - Um novo Menu, com mais opções
     - Uma tela para configurações do jogo
-    - Melhora da trilha sonora
+    - Melhora da trilha sonora-->
 
 Para saber mais [clique aqui](https://projeto-de-algoritmos.github.io/Final_Paku-2/)
 
