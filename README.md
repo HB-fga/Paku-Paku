@@ -1,23 +1,7 @@
-# Paku-Paku-2
+# Paku-Paku
 
-<!--## Sobre 
-O Paku-Paku 2 é um jogo inspirado no Pac-Man. O objetivo do jogo é que o Paku consiga comer o maior número de bolhinhas possíveis sem ser capturado pelos fantasmas. Ao comer as bolhinhas especiais(maiores) o Paku consegue poderes, por 15 segundos, e fica forte o suficiente para comer os fantasmas, sabendo disso os fantasmas começam a fugir do Paku.
-
-O Paku-Paku 2 é a evolução do Paku-Paku. Agora existem novos desafios e dificuldades, além de dar ao jogador maior controle sobre as configurações do jogo.
-
-**Novidades do Paku-Paku 2:**
-- Novas formas de gerar o labirinto 
-    - Gere labirintos a partir do algoritmo ambicioso Kruskal
-- Um novo Fantasma está a solta.
-    - O Bordy é um Fantasmas inteligente, que persegue o Paku utilizando o algoritmo de programação dinâmica Bellman-Ford
-- Melhore sua pontuação e crie recordes cada vez maiores, as 10 melhores pontuações são ordenadas pelo algoritmo de dividir e conquistar MergeSort
-- O Paku-Paku 2 esta de cara nova
-    - Novos botões
-    - Um novo Menu, com mais opções
-    - Uma tela para configurações do jogo
-    - Melhora da trilha sonora-->
-
-Para saber mais [clique aqui](https://projeto-de-algoritmos.github.io/Final_Paku-2/)
+## Sobre 
+Paku-Paku é um jogo feito em Python utilizando a biblioteca Pyxel, o jogo é semelhante ao Pac-Man onde você controla um personagem que precisa coletar pontos e fujir de fantasmas dentro de um labirinto, porém o jogo é altamente configurável, sendo possível escolher qual algoritmo deseja usar para gerar o labirinto, se o labirinto será simétrico, quais inteligências artificiais deseja que os fantasmas inimigos usem, entre outras opções.
 
 ## Screenshots
 
@@ -34,31 +18,24 @@ Para saber mais [clique aqui](https://projeto-de-algoritmos.github.io/Final_Paku
 
 > https://www.youtube.com/watch?v=Vgq-Fw0WmMI
 
-## Instalação 
-**Linguagem**: Python<br>
-**Framework**: --- <br>
-
-**Pré-requisitos** para rodar o Paku-Paku 2:
-* Instale o [Python](https://www.python.org/downloads/) (versão 3.8.5)
-* Instale o [Pyxel](https://github.com/kitao/pyxel/blob/master/README.pt.md) (versão 1.4.3)
-
-### Instalar e Executar (Sistema baseado em Debian)
-
-    $ pip3 install pyxel 
-    $ git clone https://github.com/projeto-de-algoritmos/Final_Paku-2.git
-    $ cd Final_Paku-2/paku
-    $ python3 game.py
-
-### Instalar e Executar - Executável (Sistema baseado em Debian)
+## Baixando e Executando (Para sistemas baseados em Debian)
 
 1. Faça o download: [https://github.com/projeto-de-algoritmos/Final_Paku-2/releases/tag/apk](https://github.com/projeto-de-algoritmos/Final_Paku-2/releases/tag/apk)
 2. Clique no arquivo com botão direito
 3. Selecione propriedades permissões
 4. Permita a execução do arquivo como um programa
-5. Clique duas vezes sobre o arquivo ou no cmd execute ./game
+5. Clique duas vezes sobre o arquivo ou no terminal execute ./game
 
-## Uso 
+## Compilar a partir do código fonte 
 
-Após instalar e executar basta clicar no botão jogar para começar o jogo e então usar as teclas de seta ou WASD para movimentar o personagem  
+### Dependências
+* [Python](https://www.python.org/downloads/) (versão 3.8.5)
+* [Pyxel](https://github.com/kitao/pyxel/blob/master/README.pt.md) (versão 1.4.3)
 
-Caso queira mais detalhes veja a nossa [wiki](https://projeto-de-algoritmos.github.io/Final_Paku-2/)
+### Instalar e Executar (Para sistemas baseados em Debian)
+
+    $ pip3 install pyxel 
+    $ git clone https://github.com/HB-fga/Paku-Paku.git
+    $ cd Paku-Paku/paku
+    $ python3 game.py
+
