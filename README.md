@@ -21,10 +21,8 @@ Paku-Paku é um jogo feito em Python utilizando a biblioteca Pyxel, o jogo é se
 ## Baixando e Executando (Para sistemas baseados em Debian)
 
 1. Faça o download: [https://github.com/projeto-de-algoritmos/Final_Paku-2/releases/tag/apk](https://github.com/projeto-de-algoritmos/Final_Paku-2/releases/tag/apk)
-2. Clique no arquivo com botão direito
-3. Selecione propriedades permissões
-4. Permita a execução do arquivo como um programa
-5. Clique duas vezes sobre o arquivo ou no terminal execute ./game
+2. Clique duas vezes sobre o arquivo ou no terminal execute ./game
+3. **Caso o passo 2 não funcione:** Clique no arquivo com botão direito Selecione propriedades>permissões e permita a execução do arquivo como um programa
 
 ## Compilar a partir do código fonte 
 
